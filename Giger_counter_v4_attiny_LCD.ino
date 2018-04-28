@@ -1,7 +1,7 @@
 #include <TinyWireM.h>
 #include "LiquidCrystal_attiny.h"
 /*
-   Made using the RH electronics Geiger kit although anyshould work just change the conversion factor
+   Made using the RH electronics Geiger kit although any should work 
    Developed for ATtiny85 using LCD i2c
 */
 
