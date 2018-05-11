@@ -1,10 +1,16 @@
 # Geiger-Counter-ATtiny85
-Geiger Counter using an Attiny85 to estimate radioactive dosage dosage.
+Geiger Counter using an Attiny85 to estimate radioactive dosage.
 
 Uses the SBM-20 Geiger–Müller tube.
 You must use a 4.7kΩ pullup resistors on the Attiny85's SDA and SCL pins.
 
 Made using the [RH-Electronics kit](http://www.rhelectronics.net/store/radiation-detector-geiger-counter-diy-kit-second-edition.html) but any circuit should work as long as there is a pulse when a particle is detected. 
+
+## Circuit Diagram
+The following is the circuit diagram needed for both screens.
+
+![x](https://i.imgur.com/rjDOTEW.png)
+
 
 ## LCD Screen
 
