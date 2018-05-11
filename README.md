@@ -1,5 +1,5 @@
 # Geiger-Counter-ATtiny85
-Geiger Counter using an Attiny85 to estimate radioactive dosage dosage.
+Geiger Counter using an Attiny85 to estimate radioactive dosage.
 
 Uses the SBM-20 Geiger–Müller tube.
 You must use a 4.7kΩ pullup resistors on the Attiny85's SDA and SCL pins.
